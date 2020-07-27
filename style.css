@@ -178,6 +178,9 @@ h1 button {
   h1 {
     font-size: 1.6rem !important;
   }
+  .form-group textarea {
+    min-width: 330px;
+  }
 }
 @media (max-width: 420px) {
   .card {
@@ -195,6 +198,9 @@ h1 button {
   .clear {
     bottom: 62px;
   }
+  .form-group textarea {
+    min-width: 330px;
+  }
 }
 @media (max-width: 380px) {
   .card {
@@ -210,7 +216,13 @@ h1 button {
     margin-top: 10%;
   }
   .clear {
-    bottom: 62px;
+    bottom: 70px;
+  }
+  .btn {
+    font-size: 10px;
+  }
+  .form-group textarea {
+    min-width: 330px;
   }
 }
 @media (max-width: 320px) {
@@ -225,5 +237,8 @@ h1 button {
     font-size: 8px;
     margin-right: 5%;
     margin-top: 10%;
+  }
+  .form-group textarea {
+    min-width: 330px;
   }
 }
