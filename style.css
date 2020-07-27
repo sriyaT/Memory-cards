@@ -199,7 +199,7 @@ h1 button {
     bottom: 62px;
   }
   .form-group textarea {
-    min-width: 330px;
+    min-width: 300px;
   }
 }
 @media (max-width: 380px) {
@@ -222,7 +222,7 @@ h1 button {
     font-size: 10px;
   }
   .form-group textarea {
-    min-width: 330px;
+    min-width: 300px;
   }
 }
 @media (max-width: 320px) {
@@ -239,6 +239,6 @@ h1 button {
     margin-top: 10%;
   }
   .form-group textarea {
-    min-width: 330px;
+    min-width: 300px;
   }
 }
