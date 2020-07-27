@@ -179,7 +179,7 @@ h1 button {
     font-size: 1.6rem !important;
   }
   .form-group textarea {
-    min-width: 330px;
+    min-width: 300px;
   }
 }
 @media (max-width: 420px) {
